@@ -9,7 +9,7 @@
                 cache.push(
                     {
                         element: this,
-                        text: this.lastChild.trim().toLowerCase()
+                        text: this.alt.trim().toLowerCase()
                     }
                 );
             }
